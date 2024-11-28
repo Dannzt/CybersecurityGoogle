@@ -2,7 +2,7 @@
 </h2>
   <br>
 <div align="center">
-  <img src="https://i.imgur.com/O692tcp.png" width="300">
+  <img src="https://www.google.com.br/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="300">
 </div>
 
 ----------------------------
