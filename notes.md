@@ -183,4 +183,3 @@ No entanto, os atacantes também podem usar os analisadores de protocolo de rede
  
 -----------------------------------------------------------------------------------------------------------------------------------------------
   </details>
-No entanto, os atacantes também podem usar os analisadores de protocolo de rede de forma maliciosa para obter informações sobre uma rede específica. Por exemplo, os atacantes podem capturar pacotes de dados que contenham informações confidenciais, como nomes de usuário e senhas de contas. AS como analista de segurança cibernética, é importante entender a finalidade e os usos dos analisadores de protocolo de rede.
