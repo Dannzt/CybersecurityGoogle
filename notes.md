@@ -1,11 +1,9 @@
 
 <details>	
- <summary><b> Networl </b> </b></summary> 
+ <summary><b> Network </b> </b></summary> 
  
-week 5
+Redes
 --------
-O tópico desta semana é a troca básica de chaves: como configurar uma chave secreta entre duas partes. Por enquanto, consideramos apenas protocolos seguros contra espionagem. Essa pergunta motiva os principais conceitos de criptografia de chave pública, mas antes de criarmos sistemas de chave pública, precisamos fazer um breve desvio e abordar alguns conceitos básicos da teoria dos números computacionais. Começaremos com algoritmos que remontam à antiguidade (Euclides) e chegaremos até Fermat, Euler e Legendre. Também mencionaremos de passagem alguns conceitos úteis da matemática do século XX. Na próxima semana, faremos bom uso do nosso trabalho árduo desta semana e construiremos vários sistemas de criptografia de chave pública.
-
 
 Modulo 3:
 
