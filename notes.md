@@ -1,5 +1,5 @@
-
 <details>	
+ 
  <summary><b> Network </b> </b></summary> 
  
 Redes
@@ -17,7 +17,7 @@ Os CSPs oferecem três categorias principais de serviços:
 - **Infraestrutura como serviço** **(IaaS)** refere-se ao uso de componentes de computador virtuais oferecidos pelo CSP. Eles incluem contenções virtuais e armazenamento que são configurados remotamente por meio da API ou do console da Web do CSP. Os serviços de computação e armazenamento em nuvem podem ser usados para operar aplicativos existentes e outras cargas de trabalho de tecnologia sem modificações significativas. Os aplicativos existentes podem ser modificados para aproveitar os recursos de disponibilidade, desempenho e segurança que são exclusivos dos serviços do provedor de nuvem.
 - **Plataforma como serviço (PaaS)** refere-se a ferramentas que os desenvolvedores de aplicativos podem usar para projetar aplicativos personalizados para sua empresa. Os aplicativos personalizados são projetados e acessados na Nuvem e usados para as necessidades comerciais específicas de uma empresa.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c39ccecf-d934-4a0a-b0a2-49b90fe32511/a24561a7-0094-43b2-8cfd-cff70ff69438/image.png)
+
 
 ## O modelo TCP/IP
 
@@ -25,7 +25,9 @@ O **modelo TCP/IP** é uma estrutura usada para visualizar como os dados são or
 
 O modelo TCP/IP tem quatro camadas: a camada de acesso à rede, a camada de Internet, a camada de transporte e a camada do aplicativo. Ao solucionar problemas na rede, os profissionais de segurança podem analisar quais camadas foram afetadas por um ataque com base nos processos envolvidos em um incidente.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c39ccecf-d934-4a0a-b0a2-49b90fe32511/378a7396-8560-4b12-9847-a8795f7eec73/image.png)
+![image](https://github.com/user-attachments/assets/6538a772-675c-4a1c-8ce4-01a6464fd11f)
+
+
 
 Camada de acesso à rede: a famosa camada de enlace de dados,  é a camada que faz a criação de pacotes de dados e sua transição para a rede.
 
@@ -33,7 +35,8 @@ O protocolo de resolução de endereço (ARP) faz parte dessa camada.
 
 A camada de rede é responsável por receber os pacotes de dados e passar 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c39ccecf-d934-4a0a-b0a2-49b90fe32511/3a34803c-9c47-44c1-ba8b-93987fc97aee/image.png)
+![image.png](https://i.imgur.com/7TF8Mhl.png)
+
 
 ## Camada 7: camada do aplicativo
 
@@ -71,7 +74,8 @@ Protocolos como o protocolo de controle de rede (NCP), o controle de link de dad
 
 AS como o nome sugere, a camada física corresponde ao hardware físico envolvido na transmissão da rede. Hubs, modems a cabo e os cabos e a fiação que os conectam são considerados parte da camada física. Para trafegar por um cabo Ethernet ou coaxial, um pacote de dados precisa ser traduzido em um fluxo de 0s e 1s. O fluxo de 0s e 1s é enviado através da fiação e dos cabos físicos, recebido e, em seguida, passado para níveis mais altos do modelo OSI.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c39ccecf-d934-4a0a-b0a2-49b90fe32511/22556229-2d20-4ed0-9b48-f846945f6fba/image.png)
+![image](https://github.com/user-attachments/assets/991680e5-abbf-4f2e-ade9-b86fe454581c)
+
 
 ### **Wi-Fi Protected Access**
 
@@ -159,7 +163,6 @@ o tcpdump fornece uma breve análise de pacotes e converte as principais informa
 
 o tcpdump imprime a saída do comando como interceptação de pacotes na linha de comando e, opcionalmente, em um arquivo de log, depois que um comando é executado. A saída de uma captura de pacote contém muitas informações importantes sobre o Tráfego de rede.
 
-!https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/B-PaECh0ToSFgBWpFczYZg_4896abe8c06443f08eec4dc003dcf8f1_image.png?expiry=1732492800000&hmac=pPZ8kq7YnYPGXNoUuP2_wbny9RuE4mlRoGDAnnxLWbI
 
 Algumas informações que você recebe de uma captura de pacote incluem:
 
@@ -180,6 +183,22 @@ o tcpdump e outros analisadores de protocolo de rede são comumente usados para 
 
 No entanto, os atacantes também podem usar os analisadores de protocolo de rede de forma maliciosa para obter informações sobre uma rede específica. Por exemplo, os atacantes podem capturar pacotes de dados que contenham informações confidenciais, como nomes de usuário e senhas de contas. AS como analista de segurança cibernética, é importante entender a finalidade e os usos dos analisadores de protocolo de rede.
 --------
- 
+Algumas dicas para ter problemas de rede em seu sistema:
+
+Adotar politicas de segurança para o usuário, como:
+
+- Senhas fortes( presença de caracteres especiais, números e letras maiúsculas)
+- MFA (Multi-facter authentication) interessante para não vazar informações confidenciais da empresa e também recomendar para o usuário.
+    - Colocando em pilares coisas que só você tenha, como “coisas que você sabe” como sua senha, “coisas que você tem” como CNH ou carteira de identidade, ou “algo que só você tem” como sua retina ou sua digital.
+- Mantém sempre a segurança do sistema operacional, de preferencia ser multiplos sistemas para caso 1 computador tem problema, não prejudicar o sistema inteiro.
+
+## Ataques de força bruta
+
+Um **ataque de força bruta** é um processamento de tentativa e erro para descobrir informações privadas. Há diferentes tipos de ataques de força bruta que os agentes mal-intencionados usam para adivinhar senhas, incluindo:
+
+- *Ataques de força bruta simples.* Quando os atacantes tentam adivinhar as credenciais de login de um usuário, isso é considerado um ataque de força bruta simples. Eles podem fazer isso inserindo qualquer combinação de nomes de usuário e senhas que possam imaginar até encontrar uma que funcione.
+- *Os dictionary attacks* usam uma técnica semelhante. Nos dictionary attacks, os atacantes usam uma lista de senhas comumente usadas e credenciais roubadas de violações anteriores para acessar um sistema. Esses ataques são chamados de ataques de "dicionário" porque os atacantes originalmente usavam uma lista de palavras do dicionário para adivinhar as senhas, antes que as regras de senhas complexas se tornassem uma prática de segurança comum.
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
   </details>
