@@ -202,3 +202,8 @@ Um **ataque de força bruta** é um processamento de tentativa e erro para desco
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
   </details>
+
+  <details>
+  <summary><b> Linux e SQL </b> </b></summary> 
+
+  </details>
