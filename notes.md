@@ -205,5 +205,19 @@ Um **ataque de força bruta** é um processamento de tentativa e erro para desco
 
   <details>
   <summary><b> Linux e SQL </b> </b></summary> 
+  # Linux e SQL
+
+### CLI vs. GUI
+
+Uma interface **gráfica de usuário** **(GUI)** é uma interface de usuário que usa ícones na tela para gerenciar diferentes tarefas no computador. Uma **interface de linha de comando (CLI)** é uma interface de usuário baseada em texto que usa comandos para interagir com o computador. 
+
+![image.png](https://github.com/user-attachments/assets/3fd64205-dd5d-4288-8cb8-41247fa48cbe)
+
+
+As principais diferenças são notáveis, sendo o “Gui” utilizando imagens e ícone para demonstração, sendo mais utilizado. E o “CLI” sendo usado por linhas de comando, como no prompt.
+
+### **Função**
+
+Essas duas interfaces também diferem em sua Função. Uma GUI é uma interface que só permite fazer uma solicitação de cada vez. No entanto, uma CLI permite que você faça várias solicitações ao mesmo tempo.
 
   </details>
