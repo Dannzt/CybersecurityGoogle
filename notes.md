@@ -220,4 +220,32 @@ As principais diferenças são notáveis, sendo o “Gui” utilizando imagens e
 
 Essas duas interfaces também diferem em sua Função. Uma GUI é uma interface que só permite fazer uma solicitação de cada vez. No entanto, uma CLI permite que você faça várias solicitações ao mesmo tempo.
 
+Alguns sistemas Linux: 
+## KALI LINUX ™
+
+**O KALI LINUX ™** é uma distribuição de código aberto do Linux que é amplamente usada no setor de segurança. Isso ocorre porque o KALI LINUX ™, que é baseado no Debian, é pré-instalado com muitas ferramentas úteis para testes de penetração e forense digital. Um **teste de penetração** é um ataque simulado que ajuda a identificar vulnerabilidades em sistemas, redes, sites, aplicativos e processos. A perícia **digital** é a prática de coletar e analisar dados para determinar o que aconteceu após um ataque. Essas são atividades importantes no setor de segurança.
+
+No entanto, o KALI LINUX ™ não é a única distribuição Linux usada na segurança cibernética.
+
+## Ubuntu
+
+**O Ubuntu** é uma distribuição de código aberto e fácil de usar que é amplamente utilizada no setor de segurança e em outros setores. Ele tem uma interface de Linha de Comando (CLI) e uma interface gráfica do usuário (GUI). O Ubuntu também é derivado do Debian e inclui aplicativos comuns por padrão. Os usuários também podem baixar muitos outros aplicativos de um gerenciador de pacotes, incluindo ferramentas voltadas para a segurança. Devido ao seu amplo uso, o Ubuntu tem um número especialmente grande de recursos da comunidade para dar suporte aos usuários.
+
+O Ubuntu também é amplamente usado para computação em nuvem. À medida que as organizações migram para servidores em nuvem, o trabalho de segurança cibernética pode envolver mais regularmente derivados do Ubuntu.
+
+## Parrot
+
+**O Parrot** é uma distribuição de código aberto que é comumente usada para segurança. Semelhante ao KALI LINUX ™, o Parrot vem com ferramentas pré-instaladas relacionadas a testes de penetração e forense digital. Como o KALI LINUX ™ e o Ubuntu, ele é baseado no Debian.
+
+O Parrot também é considerado uma distribuição Linux fácil de usar. Isso se deve ao fato de ele ter uma GUI que muitos consideram fácil de navegar. Isso se soma ao CLI do Parrot.
+
+## Red Hat® Enterprise Linux®
+
+**O Red Hat Enterprise Linux** é uma distribuição do Linux baseada em assinatura, criada para uso corporativo. O Red Hat não é gratuito, o que é uma grande diferença em relação às distribuições mencionadas anteriormente. Como foi criado e tem suporte para uso corporativo, a Red Hat também oferece uma equipe de suporte dedicada para que os clientes entrem em contato para resolver problemas.
+
+## AlmaLinux
+
+**O AlmaLinux** é uma distribuição Linux voltada para a comunidade que foi criada como um substituto estável para o CentOS. O CentOS era uma distribuição de código aberto intimamente relacionada à Red Hat, e sua última versão estável, o CentOS 8, foi lançada em dezembro de 2021. O CentOS usou o código-fonte publicado pela Red Hat para fornecer uma plataforma semelhante. O AlmaLinux foi projetado para ser um substituto imediato do CentOS 8. Isso garante que os aplicativos e as configurações que funcionavam no CentOS continuarão a funcionar no AlmaLinux.
+
+
   </details>
