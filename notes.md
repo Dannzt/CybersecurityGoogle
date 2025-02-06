@@ -247,5 +247,21 @@ O Parrot também é considerado uma distribuição Linux fácil de usar. Isso se
 
 **O AlmaLinux** é uma distribuição Linux voltada para a comunidade que foi criada como um substituto estável para o CentOS. O CentOS era uma distribuição de código aberto intimamente relacionada à Red Hat, e sua última versão estável, o CentOS 8, foi lançada em dezembro de 2021. O CentOS usou o código-fonte publicado pela Red Hat para fornecer uma plataforma semelhante. O AlmaLinux foi projetado para ser um substituto imediato do CentOS 8. Isso garante que os aplicativos e as configurações que funcionavam no CentOS continuarão a funcionar no AlmaLinux.
 
+## Comunicação por meio de um shell
+
+O shell é basicamente a interação entre o humano e computador, em formas de linhas de codigo que fazem o computador compreender o que está sendo solicitado.  Conforme uma conversa, onde você pergunta, a pessoa responde, computadores não são diferentes, usando comandos de entrada, saída e se você não sabe a resposta, exibi comandos de erro.
+
+echo = Print
+
+## Tipos de shells
+
+Os vários tipos diferentes de shells do Linux incluem os seguintes:
+
+- Bourne-Again Shell (bash)
+- C++ Shell (csh)
+- Korn Shell (ksh)
+- Shell em C aprimorado (tcsh)
+- Z Shell (zsh)
+
 
   </details>
