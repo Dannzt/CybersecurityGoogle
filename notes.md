@@ -263,5 +263,18 @@ Os vários tipos diferentes de shells do Linux incluem os seguintes:
 - Shell em C aprimorado (tcsh)
 - Z Shell (zsh)
 
+---
 
+## Alguns comando de navegação
+
+- CD (chance disc) (percebi que posso usar só o nome do ultimo elemento, tipo “`cd users` ”)
+- LS - exibi os arquivos estão na pasta
+- PWD - Informa qual diretório você está no momento
+- CAT - Exibi o conteúdo dentro do arquivo
+- HEAD - Informa as 10 primeiras linhas do conteúdo do arquivo (se quiser modificar o numero use -n, ex: pra exibir 5 elementos “**head -n 5 updates.txt”)**
+- TAIL - Ao contrario do HEAD, ele exibi os 10 últimos elementos da lista
+
+Qual é a diferença entre um caminho absoluto de arquivo e um caminho relativo de arquivo?
+
+Um caminho absoluto de arquivo começa na raiz e um caminho relativo começa no diretório raiz.
   </details>
